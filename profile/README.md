@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A software engineer and web developer from the UK</h3>
+<h3 align="center">A software engineer and web developer from the UK<br>This is where I will keep my projects from my University work!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
